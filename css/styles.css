@@ -1,0 +1,12 @@
+.frog-showing {
+  display: none;
+}
+
+p {
+  cursor: pointer;
+  color: red;
+}
+
+p:hover {
+  text-decoration: underline;
+}
